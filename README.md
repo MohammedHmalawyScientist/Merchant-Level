@@ -1,25 +1,13 @@
 # Project No. (5) : Merchant Level
 
 ### Description
-Now, Dream Housing Finance company can identify the customers segments, those are eligible for loan amount so that they can specifically target these customers over the data.
+Now, companies can properly market campaigns to customers with products that are important to them.
 This is a web app to recommend the best category and merchant for a customer.
 
 ### User Inputs
-- Gender : This feature is a list that consist of 2 categories (`Male` , `Female`)
+- Select Recommendation Method : This feature is a list that consist of 2 categories (`Mean of Trx_Vlu` , `Count of Trx_Rank`)
 
-- Married : This feature is a list that consist of 2 categories (`Yes` , `No`)
-
-- Dependents : This feature should be a value that has a range between `0` and `3`
-
-- Education : This feature is a list that consist of 2 categories (`Graduate`, `Not Graduate`)
-
-- Loan Amount : This feature should be a value that has a range between `1` and `600`
-
-- Loan Amount Term : This feature should be a value that has a range between `12` and `480`
-
-- Property Area : This feature is a list that consist of 3 categories (`Urban`, `Semiurban`, `Rural`)
-
-- Credit History : This feature is a check box that return `1` or `0` if you check or uncheck it respectively
+- User Id : This feature should be a real value and you can generate a sample from the `Generate Samples` button
 
 ### Get Dataset
 [Download](https://drive.google.com/file/d/16Z6rJlERf8RTJQERu5GayS5FoqkGI4uJ/view?usp=drive_link) - Merchant Level
