@@ -13,7 +13,7 @@ This is a web app to recommend the best category and merchant for a customer.
 [Download](https://drive.google.com/file/d/16Z6rJlERf8RTJQERu5GayS5FoqkGI4uJ/view?usp=drive_link) - Merchant Level
 
 ### Watch Presentation
-[Explaining Video](https://youtu.be/7dxUQIo3PyU) - Merchant Level
+[Explaining Video](https://youtu.be/DT6DFmP62Hc) - Merchant Level
 
 ### Recommend Now
 [Application](https://merchant-level.streamlit.app/) - Merchant Level
